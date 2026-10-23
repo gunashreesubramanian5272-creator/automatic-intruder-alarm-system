@@ -22,6 +22,8 @@ Refer to the components connected in the Tinkercad circuit.
 ## Working Principle
 The sensor monitors for a possible intrusion. When the sensor detects the configured trigger condition, the Arduino processes the input and activates the alarm output. The alarm alerts people to a possible unauthorized entry.
 
+## Tinkercad Link
+https://www.tinkercad.com/things/9Xs7vRoM6DQ-smashing-albar
 
 ## Source Code
 The Arduino source code will be included in this repository as an `.ino` file.
